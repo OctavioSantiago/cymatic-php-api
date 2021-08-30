@@ -11,5 +11,13 @@
             "email": "santiagolepe@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {
+        "CymaticApi\\": "src"
+    },
+    "files": [
+        "src/Cymatic.php"
+    ]
+    }
 }
