@@ -3,9 +3,6 @@
   namespace CymaticApi;
 
   require 'vendor/autoload.php';
-  require_once("src/Config.php");
-  require_once("src/Api.php");
-  require_once("src/Idp.php");
 
   use CymaticApi\Config;
   use CymaticApi\Api;

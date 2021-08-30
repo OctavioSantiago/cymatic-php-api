@@ -2,8 +2,6 @@
 
   namespace CymaticApi;
 
-  require_once("src/Config.php");
-  
   use CymaticApi\Config;
   use GuzzleHttp\Client;
   
