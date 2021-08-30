@@ -10,5 +10,6 @@
             "name": "Octavio",
             "email": "santiagolepe@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
