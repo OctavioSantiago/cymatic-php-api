@@ -1,0 +1,14 @@
+{
+    "name": "octavio/cymatic-php-api",
+    "description": "cymatic client api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Octavio",
+            "email": "santiagolepe@gmail.com"
+        }
+    ]
+}
