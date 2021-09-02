@@ -7,8 +7,8 @@ class Config {
   private static $instance;
 
   private $cymatic = [
-    "api" => "https://api.cymaticsecurity.com",
-    "idp" => "https://sso.cymaticsecurity.com"
+    "api" => "https://api.cymatic.io",
+    "idp" => "https://sso.cymatic.io"
   ];
 
   private $tenant = [
