@@ -4,7 +4,7 @@ Cymatic client php to verify jwt
 ## Installation
 This project using composer.
 ```
-$ composer require octavio/cymatic-php-api:dev-master
+$ composer require cymatic/php-api:dev-master
 ```
 
 ## Usage
