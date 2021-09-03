@@ -8,7 +8,7 @@ class Config {
 
   private $cymatic = [
     "api" => "https://api.cymatic.io",
-    "idp" => "https://sso.cymatic.io"
+    "idp" => "https://sso-auth.cymatic.io"
   ];
 
   private $tenant = [
