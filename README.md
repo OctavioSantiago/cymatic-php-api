@@ -27,8 +27,7 @@ $ composer require octavio/cymatic-php-api:dev-master
 
   try {
     $payload = [
-      "token" => "eyxcdv ...",
-      "c_uuid" => "xxxxxx-xxxxxxx-xxxxxxxx-xxxxxxx-xxxxxx"
+      "token" => "eyxcdv ..."
     ];
     $verification = $cymatic->verify($payload);
     var_dump($verification);
